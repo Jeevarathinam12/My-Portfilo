@@ -28,7 +28,9 @@ My-Portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
-└── images/
+└── resume.pdf
+└── profile.png
+
 ```
 
 ## 🚀 How to Run
